@@ -1,8 +1,6 @@
 # WinShare - Browser Extension for Sharing Links via Windows Share
 
-
-https://github.com/user-attachments/assets/10402c38-0ad0-43c2-910f-1e13d52c32ff
-
+https://github.com/user-attachments/assets/6803c11f-e63f-4fd7-a0cf-46e7237dc3dc
 
 ## 📌 Description
 **WinShare** is a convenient browser extension that allows you to quickly share the current webpage through the standard Windows Share menu.
