@@ -2,7 +2,9 @@
 
 https://github.com/user-attachments/assets/6803c11f-e63f-4fd7-a0cf-46e7237dc3dc
 
-**English** | [Русский](README_RU.md)
+<p align="center">
+  <b>English</b> | <a href="README_RU.md">Русский</a>
+</p>
 
 ## 📌 Description
 **WinShare** is a convenient browser extension that allows you to quickly share the current webpage through the standard Windows Share menu.
