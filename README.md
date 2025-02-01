@@ -1,7 +1,7 @@
 # WinShare - Browser Extension for Sharing Links via Windows Share
 
 <div align="center">
-English &nbsp;&nbsp;|&nbsp;&nbsp; [Russian](README_RU.md)
+English &nbsp;&nbsp;|&nbsp;&nbsp; [Russian](https://github.com/rashidyusubov/winshare/blob/6080b27a6d36fd9739d95f0b389ed88047ae4032/README_RU.md)
 </div>
 
 https://github.com/user-attachments/assets/6803c11f-e63f-4fd7-a0cf-46e7237dc3dc
